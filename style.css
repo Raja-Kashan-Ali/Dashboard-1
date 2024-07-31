@@ -1,0 +1,59 @@
+.custom-spinner{
+        position: absolute;
+       right: 20px;
+       top: 70px;
+}
+.custom-spinner-text{
+       position: relative;
+      left: 125px;
+      top: 25px;
+      
+}
+.card{
+    width: 22%;
+    height: 120px;
+    margin-left: 3%;
+    border-bottom: 4px solid rgb(13, 110, 253) !important;
+}
+#card-1{
+    border-bottom: 4px solid rgb(220, 53, 69) !important;
+}
+#card-2{
+    border-bottom: 4px solid rgb(255, 193, 7) !important;
+}
+#card-3{
+    border-bottom: 4px solid rgb(25, 135, 84) !important;
+}
+.box{
+      width: 50%;
+      height: 380px;
+      margin-left: 3% !important;
+}
+.circle{
+       width: 40%;
+       height: 155px;
+}
+.bk-1{
+    border-left: 12px solid rgb(168, 226, 162);
+    border-top: 12px solid #71c0c8;
+    border-right: 12px solid rgb(10, 142, 248);
+    border-bottom: 12px solid rgb(224, 224, 224);
+    border-radius: 50%;    
+    width: 169px;
+    height: 169px;
+    margin-left: 30%;
+    margin-top: 20%;
+  }
+  .teext{
+       position: relative;
+       bottom: 120px;
+       left: 5px;
+  }
+  .lower-card{
+    width: 22%;
+    height: 120px;
+    margin-left: 3%;   
+  }
+
+  
+
